@@ -1,0 +1,1 @@
+# sem-foro-inteligente-esp32-RICHARD-CABRERA-MEDARDO-VIVANCO
